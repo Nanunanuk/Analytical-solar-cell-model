@@ -1,0 +1,3 @@
+For now there is no specific manual available. 
+For the fundamental working principle of the software please read:
+N. Reiners (2018): ANGLE AND SPECTRAL DEPENDENCE OF THE INTERNAL AND THE EXTERNAL QUANTUM EFFICIENCY OF SOLAR MODULES. Dissertation, University of Luxembourg.
