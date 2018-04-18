@@ -77,7 +77,7 @@ for theta_0=[8];                    %Batch parameter: Angle of incidence [°]
         
         for h_b=[0.6];              % Batch parameter: Haze factor for back side   
             for h_f=[0.1];          % Batch parameter: Haze factor for front side 
-                for r_db=[0.81+1/70*theta_0*0.003]; % Batch parameter: Diffuse reflectivity at back side 
+                for r_db=[0.81];    % Batch parameter: Diffuse reflectivity at back side 
                     for r_df=[0.97];                % Batch parameter: Diffuse reflectivity at front side
                         
                         %% Grid
